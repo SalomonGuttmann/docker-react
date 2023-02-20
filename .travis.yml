@@ -1,5 +1,4 @@
 sudo: required
-#language: generic
 language: node_js
 
 
